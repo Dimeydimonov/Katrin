@@ -1,0 +1,86 @@
+* { margin: 3px;
+	padding:3px;
+	background-image: url(//d:/Downloads/cFg.gif);
+	background-size: cover;
+}
+
+header { width: 96%;
+min-height: 10%;
+padding-top: none;
+position: fixed;
+text-align:center;
+font-size: 3.4em;
+font-weight: bold;
+color:#eb08ba;
+-webkit-text-stroke: 3px;
+-webkit-text-stroke-color: whitesmoke;
+font-family:segoe script;
+letter-spacing: 0.1em;
+background-image: none;
+
+}
+
+
+a{
+	
+	text-decoration: none;
+}
+
+.leftblock  {
+	width: 350px; 
+	padding-top: 0%;
+	position:fixed ;
+	float:left;
+	top: 1%; 
+	left: 1%; 
+	height: 80%; 	
+	margin-top:12%;
+	border-radius: 19px;
+	background-image: none;
+	
+}
+
+
+.rightblock {
+	width: 280px;
+	height: 500px;
+	background-color: #c8326e; 
+	padding-top: 3%;
+	position:relative ;
+	float:right;
+	top: 3%s; 
+	left: 1%; 
+	height: 80%; 
+	margin-top: 12%;
+	border-radius: 19px;
+	text-align: center;
+	background-image: none;
+}
+body {
+	width: 96%;
+	height: 96%;
+	background-image: none;
+	
+}
+.Progect{
+	font-family:cursive;
+	font-size: 1.8em;
+	font-variant: inherit; 
+	font-optical-sizing:auto;
+	color: aquamarine;
+	background-image: none;
+	margin: 3%;
+
+}
+
+.pages2 {
+	font-size: 1.4em;
+	color: antiquewhite;
+	background-image: none;
+
+ }
+ .logo {
+	max-width: 150px;
+	max-height: 150px;
+	background-image: none;
+ }
